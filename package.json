@@ -7,12 +7,9 @@
     "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
     "license": "MIT",
     "scripts": {
-        "start": "tsc-watch --onSuccess \" node dist/index.js\" "
+        "start": "npx tsc-watch --onSuccess \" node dist/index.js\" "
     },
     "devDependencies": {
         "tsc-watch": "^4.5.0"
-    },
-    "dependencies": {
-        "typescript": "^4.4.3"
     }
 }
