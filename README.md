@@ -1,1 +1,2 @@
-# typescript_basics
+# typechain
+"Learning Typescript by making a Blockchain with it"
